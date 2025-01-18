@@ -6,7 +6,7 @@ EcoSprinkle merupakan Aplikasi yang dikembangkan untuk memberikan kontrol dan mo
 Keputusan ini diimplementasikan dalam penyiraman tanaman menggunakan sprinkler dan pengisian air tandon yang dapat dikendalikan secara manual maupun otomatis melalui aplikasi smartphone. Dengan demikian, petani dapat memantau, mengatur, dan mengoptimalkan irigasi mereka dengan lebih efisien, dan diharapkan dapat menghasilkan peningkatan hasil panen dan penghematan sumber daya air.
 
 ## Komponen Yang Digunakan:
-* Mikrocontroler ESP32
+* Mikrocontroller ESP32
 * Sensor Kelembaban Tanah
 * Sensor Suhu & Kelembaban Udara (DHT22)
 * Sensor Ultrasonik
